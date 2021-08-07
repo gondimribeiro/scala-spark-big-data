@@ -68,3 +68,6 @@ __pycache__/
 #jEnv Files
 .java-version
 .jvmopts
+
+# data
+**/*.dat
